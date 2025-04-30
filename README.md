@@ -51,6 +51,12 @@ This repository presents a modular framework for developing AI agents using a cl
 
 ## 🧪 Usage
 
+If using `uv`:
+
+   ```bash
+   uv run main.py 
+   ```
+
 ```bash
 python main.py
 ```
