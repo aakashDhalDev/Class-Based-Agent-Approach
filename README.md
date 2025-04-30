@@ -6,8 +6,6 @@ This repository presents a modular framework for developing AI agents using a cl
 
 ## 🧰 Project Structure
 
-:contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-
 - **`agents/`** : Contains class definitions for various agents.
 - **`models/`** : Houses configurations and wrappers for language models.
 - **`prompts/`** : Includes prompt templates and related resources.
@@ -60,7 +58,7 @@ python main.py
 
 ## 🛠️ Customization
 
-# You can do the following ->
+### You can do the following ->
 
 - **Adding New Agents**
 - **Integrating Tools**
